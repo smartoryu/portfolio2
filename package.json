@@ -27,6 +27,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
+        "gh-pages": "^2.0.1",
         "node-libs-browser": "^2.2.1",
         "webpack": "^4.34.0"
     }
